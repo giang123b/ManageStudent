@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_fab">30dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_padding">6dp</dimen>
+    <dimen name="big_padding">16dp</dimen>
+    <dimen name="padding_layout">12dp</dimen>
+
+    <dimen name="text_size_txtName">20sp</dimen>
+    <dimen name="text_size_txtAge_txtPhone">14sp</dimen>
+    <dimen name="margin_button_add">10dp</dimen>
+    <dimen name="layout_margin_activity_add_new_student">20dp</dimen>
+    <dimen name="padding_hint_text">7dp</dimen>
+    <dimen name="size_photo">50dp</dimen>
+    <dimen name="text_size_about">20sp</dimen>
+</resources>

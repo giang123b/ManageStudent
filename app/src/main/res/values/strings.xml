@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Manage Student</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Information not saved!.</string>
+    <string name="txtNameStudent">Name</string>
+    <string name="txtPhoneStudent">Phone</string>
+    <string name="txtIDStudent">ID</string>
+    <string name="btnAdd">add</string>
+    <string name="about">This app is to manage the student</string>
+    <string name="help">What your problem?</string>
+    <string name="enter_here">Enter here</string>
+    <string name="btnSend">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
